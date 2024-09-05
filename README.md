@@ -16,7 +16,7 @@ The angular-package supports the development process of [angular][angulario]-bas
 | [change-detection][cd-github-readme]         | Improves application performance.                                 | [![npm version][cd-npm-badge-png]][cd-npm-badge] |
 | [component-loader][cl-github-readme]         | Handles dynamic loading components.                               | [![npm version][cl-npm-badge-png]][cl-npm-badge] |
 | [core][core-github-readme]                   | Core features.                                                    | [![npm version][core-npm-badge-png]][core-npm-badge] |
-| **[currency][currency-github-readme]**       | **Conversion/exchanges fiat or cryptocurrencies with formatted value.** | [![npm version][core-npm-badge-png]][core-npm-badge] |
+| **[currency][currency-github-readme]**       | **Conversion/exchanges fiat or cryptocurrencies with formatted value.** | [![npm version][currency-npm-badge-png]][currency-npm-badge] |
 | [error][error-github-readme]                 | Manages an [`Error`][js-error].                                   | [![npm version][error-npm-badge-png]][error-npm-badge] |
 | [name][name-github-readme]                   | The name with prefix and suffix.                                  | [![npm version][name-npm-badge-png]][name-npm-badge] |
 | [preferences][preferences-github-readme]     | Preferences, settings, options, configuration and setup in steps. | [![npm version][preferences-npm-badge-png]][preferences-npm-badge] |
@@ -252,6 +252,17 @@ MIT © angular-package ([license][currency-license])
 
   <!-- GitHub -->
   [core-github-readme]: https://github.com/angular-package/core#readme
+
+
+<!-- Package: currency -->
+  <!-- npm -->
+  [currency-npm-badge-svg]: https://badge.fury.io/js/%40angular-package%2Fcurrency.svg
+  [currency-npm-badge-png]: https://badge.fury.io/js/%40angular-package%2Fcurrency.png
+  [currency-npm-badge]: https://badge.fury.io/js/%40angular-package%2Fcurrency
+  [currency-npm-readme]: https://www.npmjs.com/package/@angular-package/currency#readme
+
+  <!-- GitHub -->
+  [currency-github-readme]: https://github.com/angular-package/currency#readme
 
 <!-- Package: error -->
   <!-- npm -->
