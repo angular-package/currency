@@ -10,7 +10,7 @@ The angular-package supports the development process of [angular][angulario]-bas
 
 ## angular-package/currency
 
-Wrap the text with the opening and closing chars.
+Conversion/exchanges fiat or cryptocurrencies with formatted value.
 
 [![Gitter][gitter-badge]][gitter-chat]
 [![Discord][discord-badge]][discord-channel]
